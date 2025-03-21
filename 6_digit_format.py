@@ -10,4 +10,4 @@ while True:
     except ValueError:
         print("Try using numbers from 0 to 1000!")
 
-print(numstr.zfill(6))
+print(numstr.zfill(6))#zfill adds 0 at the beginning

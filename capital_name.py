@@ -1,3 +1,3 @@
-name = str(input("Enter your full name: ")).upper()
+name = (input("Enter your full name: ")).upper() #makes the string uppercase
 
 print(name)
